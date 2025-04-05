@@ -1,4 +1,5 @@
 # 🏥 Heart Disease Prediction
+## 📥 Dataset: [Download Dataset](https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1016-HeartDieseasePred.zip)
 
 This project applies machine learning techniques to predict heart disease based on patient health records. It involves data preprocessing, feature engineering, model training, and evaluation.
 
